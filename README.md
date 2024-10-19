@@ -11,6 +11,15 @@
     <img src="https://github.com/N-Al-Rubaie/Travel-Advisor-Mobile-App/assets/124283031/09ad6d87-0616-4141-9982-2965335cee43" style="width: 24%;" />
 </div>
 
+
+
+
+https://github.com/user-attachments/assets/9d5e028c-f18d-40fa-afd0-eeb67e86720a
+
+
+
+
+
 ### About the Travel Advisor App
 * A Search Optimisation App
 * Allows users to search for restaurants, hotels and attractions worldwide
